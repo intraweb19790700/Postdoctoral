@@ -1,0 +1,6 @@
+{
+  "cv_auc": 0.8602424242424243,
+  "n_documents_for_validation": 260,
+  "mean_pdti": 6.077948348933052,
+  "mean_rubric_ready_rate": 0.3701149425287356
+}
